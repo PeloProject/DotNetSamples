@@ -1,0 +1,15 @@
+C:\Users\shinji\Desktop\DotNetSamples\DotNetSamples\DotNetSamples\bin\Debug\net8.0\DotNetSamples.exe
+C:\Users\shinji\Desktop\DotNetSamples\DotNetSamples\DotNetSamples\bin\Debug\net8.0\DotNetSamples.deps.json
+C:\Users\shinji\Desktop\DotNetSamples\DotNetSamples\DotNetSamples\bin\Debug\net8.0\DotNetSamples.runtimeconfig.json
+C:\Users\shinji\Desktop\DotNetSamples\DotNetSamples\DotNetSamples\bin\Debug\net8.0\DotNetSamples.dll
+C:\Users\shinji\Desktop\DotNetSamples\DotNetSamples\DotNetSamples\bin\Debug\net8.0\DotNetSamples.pdb
+C:\Users\shinji\Desktop\DotNetSamples\DotNetSamples\DotNetSamples\obj\Debug\net8.0\DotNetSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shinji\Desktop\DotNetSamples\DotNetSamples\DotNetSamples\obj\Debug\net8.0\DotNetSamples.AssemblyInfoInputs.cache
+C:\Users\shinji\Desktop\DotNetSamples\DotNetSamples\DotNetSamples\obj\Debug\net8.0\DotNetSamples.AssemblyInfo.cs
+C:\Users\shinji\Desktop\DotNetSamples\DotNetSamples\DotNetSamples\obj\Debug\net8.0\DotNetSamples.csproj.CoreCompileInputs.cache
+C:\Users\shinji\Desktop\DotNetSamples\DotNetSamples\DotNetSamples\obj\Debug\net8.0\DotNetSamples.sourcelink.json
+C:\Users\shinji\Desktop\DotNetSamples\DotNetSamples\DotNetSamples\obj\Debug\net8.0\DotNetSamples.dll
+C:\Users\shinji\Desktop\DotNetSamples\DotNetSamples\DotNetSamples\obj\Debug\net8.0\refint\DotNetSamples.dll
+C:\Users\shinji\Desktop\DotNetSamples\DotNetSamples\DotNetSamples\obj\Debug\net8.0\DotNetSamples.pdb
+C:\Users\shinji\Desktop\DotNetSamples\DotNetSamples\DotNetSamples\obj\Debug\net8.0\DotNetSamples.genruntimeconfig.cache
+C:\Users\shinji\Desktop\DotNetSamples\DotNetSamples\DotNetSamples\obj\Debug\net8.0\ref\DotNetSamples.dll

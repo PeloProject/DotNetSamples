@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Hu/IX2iL5WnM7lGqF2qFBcRY4Hq/Z1hhW06s/blIwLY3cLmXSD/X0QZivbdmjiUgb+GwbZ8U8UjORo9ou0oEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shinji\\Desktop\\DotNetSamples\\DotNetSamples\\DotNetSamples\\DotNetSamples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shinji\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\shinji\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\shinji\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
